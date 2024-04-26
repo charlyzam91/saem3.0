@@ -28,3 +28,7 @@ C:\Charly\Soluciones\SAEM\SAEM\obj\Debug\net8.0\refint\SAEM.dll
 C:\Charly\Soluciones\SAEM\SAEM\obj\Debug\net8.0\SAEM.pdb
 C:\Charly\Soluciones\SAEM\SAEM\obj\Debug\net8.0\SAEM.genruntimeconfig.cache
 C:\Charly\Soluciones\SAEM\SAEM\obj\Debug\net8.0\ref\SAEM.dll
+C:\Charly\Soluciones\SAEM\SAEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Charly\Soluciones\SAEM\SAEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Charly\Soluciones\SAEM\SAEM\obj\Debug\net8.0\SAEM.csproj.AssemblyReference.cache
+C:\Charly\Soluciones\SAEM\SAEM\obj\Debug\net8.0\SAEM.csproj.Up2Date

@@ -1,8 +1,37 @@
 ﻿@{
-    ViewData["Title"] = "Bienvenido a ";
+    
+    ViewData["Title"] = "Inicio ";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    <div class="text-center">        
+        <div class="row">          
+
+            @foreach (var equipo in @ViewBag.Equipos)
+            {
+
+            <div class="col-2">
+
+                @if (equipo.Estatus == 1) //Disponible
+                {
+                        <a href="" style="color:#000000"> <span class="material-symbols-outlined" style="font-size:120px;">Tv</span></a>
+                }
+                @if (equipo.Estatus == 2) //Ocupado
+                {
+                        <a href="" style="color:#000000"> <span class="material-symbols-outlined" style="font-size:120px;">tv_signin</span></a>
+                }
+                @if (equipo.Estatus == 3) //Mantenimiento
+                {
+                        <a href="" style="color:#000000"> <span class="material-symbols-outlined" style="font-size:120px;">construction</span></a>
+                }
+                  
+                <br />                
+                <p>PC-@equipo.idEquipo</p>
+                
+            </div>                
+            }
+
+        </div>         
+    </div>         
 </div>
+
