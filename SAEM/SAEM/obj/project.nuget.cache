@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MgJj1YtSUB6v6S/AisXTYiTQsWVD8LrScAfQxiLhDm4/Qp16MEbOClIte28eVTjjN3gdFcTfXnb9izTqLVPHvQ==",
+  "dgSpecHash": "MlSbgU2GCM37+JIbO6jXhlbZDnm+IomJh4fzCxNn3p9y05+UZBTnbyufDiWj0xVFyPO+4xQ/+b1gSIKDiVtd/w==",
   "success": true,
-  "projectFilePath": "C:\\Charly\\Soluciones\\SAEM\\SAEM\\SAEM.csproj",
+  "projectFilePath": "C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\SAEM\\SAEM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jcsamano\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
     "C:\\Users\\Jcsamano\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",

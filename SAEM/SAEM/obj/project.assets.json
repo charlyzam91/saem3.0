@@ -893,11 +893,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Charly\\Soluciones\\SAEM\\SAEM\\SAEM.csproj",
+      "projectUniqueName": "C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\SAEM\\SAEM.csproj",
       "projectName": "SAEM",
-      "projectPath": "C:\\Charly\\Soluciones\\SAEM\\SAEM\\SAEM.csproj",
+      "projectPath": "C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\SAEM\\SAEM.csproj",
       "packagesPath": "C:\\Users\\Jcsamano\\.nuget\\packages\\",
-      "outputPath": "C:\\Charly\\Soluciones\\SAEM\\SAEM\\obj\\",
+      "outputPath": "C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\SAEM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

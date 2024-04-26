@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Charly\\Soluciones\\SAEM\\",
+  "WorkspaceRootPath": "C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5356B82-BBEE-459C-B647-50B6684E2D38}|SAEM\\SAEM.csproj|c:\\charly\\soluciones\\saem\\saem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5356B82-BBEE-459C-B647-50B6684E2D38}|SAEM\\SAEM.csproj|solutionrelative:saem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B5356B82-BBEE-459C-B647-50B6684E2D38}|SAEM\\SAEM.csproj|C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\saem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5356B82-BBEE-459C-B647-50B6684E2D38}|SAEM\\SAEM.csproj|solutionrelative:saem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5356B82-BBEE-459C-B647-50B6684E2D38}|SAEM\\SAEM.csproj|C:\\Charly\\Soluciones\\SAEM\\saem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5356B82-BBEE-459C-B647-50B6684E2D38}|SAEM\\SAEM.csproj|solutionrelative:saem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B5356B82-BBEE-459C-B647-50B6684E2D38}|SAEM\\SAEM.csproj|c:\\users\\jcsamano\\documents\\saem3.0\\saem\\saem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5356B82-BBEE-459C-B647-50B6684E2D38}|SAEM\\SAEM.csproj|solutionrelative:saem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Charly\\Soluciones\\SAEM\\SAEM\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\SAEM\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SAEM\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Charly\\Soluciones\\SAEM\\SAEM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\SAEM\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SAEM\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAB8AAAAAAAAAAAAgwC0AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -35,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Charly\\Soluciones\\SAEM\\SAEM\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\SAEM\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SAEM\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Charly\\Soluciones\\SAEM\\SAEM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jcsamano\\Documents\\saem3.0\\SAEM\\SAEM\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SAEM\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

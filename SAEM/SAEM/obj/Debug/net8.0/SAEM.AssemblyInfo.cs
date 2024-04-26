@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAEM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e60995215c6bf76abe9f591ee03e9548f05a436")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAEM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAEM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
